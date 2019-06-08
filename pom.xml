@@ -11,6 +11,7 @@
     <modules>
         <module>design_pattern</module>
         <module>classLoader</module>
+        <module>java8</module>
     </modules>
 
 
