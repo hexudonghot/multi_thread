@@ -14,7 +14,7 @@ import java.util.Map;
  *
  * @param <T>
  */
-public class ThreadLocalSimulator<T> {
+class ThreadLocalSimulator<T> {
 
     private final Map<Thread, T> storage = new HashMap<>();
 
