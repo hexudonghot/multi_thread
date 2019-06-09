@@ -2,10 +2,155 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="328c30e8-764c-494d-9a10-bb1eee0f5516" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/st.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter1/TemplateMethod(1).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter1/TryConcurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter10/BooleanLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter10/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter10/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter10/SynchronizedProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter11/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter11/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter11/ThreadException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter12/ThreadGroupAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter12/ThreadGroupCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter13/SimpleThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter2/BankVersion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter2/CalculatorStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter2/SimpleCalculatorStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter2/TaxCalaculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter2/TaxCalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter2/TicketWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter2/TicketWindowRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter3/CreateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter3/CreateThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter3/CreateThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter3/CreateThread4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter3/CreateThread5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter4/DaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter4/DaemonThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter4/ThreadSimpleAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter4/ThreadSimpleAPI2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter5/ThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter5/ThreadJoin2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter5/ThreadJoin3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter6/ThreadCloseForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter6/ThreadCloseGraceful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter6/ThreadCloseGraceful2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter6/ThreadInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter6/ThreadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter7/BankVersion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter7/BankVersion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter7/SychronizedStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter7/SychronizedStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter7/SynchronizedRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter7/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter7/SynchronizedThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter7/TicketWindowRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter8/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter8/DeadLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter8/OtherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter9/CaptureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter9/DifferenceOfWaitAndSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter9/ProduceConsumerVersion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter9/ProduceConsumerVersion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter9/ProduceConsumerVersion3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter1/SingletonObject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter1/SingletonObject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter1/SingletonObject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter1/SingletonObject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter1/SingletonObject3.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter1/SingletonObject3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter1/SingletonObject4.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter1/SingletonObject4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter1/SingletonObject5.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter1/SingletonObject5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter1/SingletonObject6.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter1/SingletonObject6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter1/SingletonObject7.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter1/SingletonObject7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter10/ThreadLocalComplexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter10/ThreadLocalComplexTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter10/ThreadLocalSimpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter10/ThreadLocalSimpleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter10/ThreadLocalSimulator(1).java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter10/ThreadLocalSimulator(1).java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter10/ThreadLocalSimulatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter10/ThreadLocalSimulatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter11/ActionContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter11/ActionContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter11/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter11/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter11/ContextTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter11/ContextTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter11/ExecutionTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter11/ExecutionTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter11/QueryFromDBAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter11/QueryFromDBAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter11/QueryFromHttpAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter11/QueryFromHttpAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter12/BalkingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter12/BalkingClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter12/BalkingData.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter12/BalkingData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter12/CustomerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter12/CustomerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter12/WaiterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter12/WaiterThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter13/ConsumerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter13/ConsumerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter13/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter13/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter13/MessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter13/MessageQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter13/ProducerAndConsumerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter13/ProducerAndConsumerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter13/ProducerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter13/ProducerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter14/CountDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter14/CountDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter14/CustomCountDownClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter14/CustomCountDownClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter14/JDKCountDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter14/JDKCountDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter15/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter15/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter15/MessageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter15/MessageHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter15/PerThreadClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter15/PerThreadClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter16/AppServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter16/AppServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter16/AppServerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter16/AppServerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter16/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter16/ClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter16/CounterIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter16/CounterIncrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter16/CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter16/CounterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter17/Channel.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter17/Channel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter17/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter17/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter17/TransportThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter17/TransportThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter17/WorkerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter17/WorkerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter17/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter17/WorkerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/ActivationQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/ActivationQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/ActiveObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/ActiveObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/ActiveObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/ActiveObjectFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/ActiveObjectProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/ActiveObjectProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/DisplayClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/DisplayClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/DisplayStringRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/DisplayStringRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/FutureResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/FutureResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/MakeStringRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/MakeStringRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/MakerClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/MakerClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/MethodRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/MethodRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/RealResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/RealResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/SchedulerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/SchedulerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/Servant.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/Servant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter18/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter18/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter2/WaitSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter2/WaitSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter3/VolatileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter3/VolatileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter3/VolatileTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter3/VolatileTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter4/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter4/BinaryObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter4/LifeCycleListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter4/LifeCycleListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter4/ObservableRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter4/ObservableRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter4/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter4/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter4/ObserverClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter4/ObserverClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter4/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter4/OctalObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter4/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter4/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter4/ThreadLifeCycleClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter4/ThreadLifeCycleClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter4/ThreadLifeCycleObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter4/ThreadLifeCycleObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter5/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter5/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter5/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter5/Gate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter5/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter5/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter6/ReadWritLockClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter6/ReadWritLockClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter6/ReadWriteLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter6/ReadWriteLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter6/ReaderWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter6/ReaderWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter6/SharedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter6/SharedData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter6/WriterWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter6/WriterWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter7/ImmutableClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter7/ImmutableClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter7/ImmutablePerformance.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter7/ImmutablePerformance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter7/ImmutableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter7/ImmutableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter7/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter7/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter7/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter7/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter7/UsePersonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter7/UsePersonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter8/AsynFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter8/AsynFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter8/Future.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter8/Future.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter8/FutureService.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter8/FutureService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter8/FutureTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter8/FutureTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter8/SyncInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter8/SyncInvoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter9/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter9/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter9/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter9/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter9/RequestQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter9/RequestQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter9/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter9/ServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter9/SuspensionClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter9/SuspensionClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/st.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,6 +158,7 @@
     <ignored path="$PROJECT_DIR$/classLoader/target/" />
     <ignored mask="*.iml" />
     <ignored path=".idea/" />
+    <ignored path="$PROJECT_DIR$/java8/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,93 +166,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classLoader/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classLoader/src/main/java/com/wangwenjun/concurrent/classloader/chapter1/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classLoader/src/main/java/com/wangwenjun/concurrent/classloader/chapter2/BootClassLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter1/SingletonObject1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter2/WaitSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter3/VolatileTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classLoader/src/main/java/com/wangwenjun/concurrent/classloader/chapter1/ClassActiveUse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1161">
-              <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classLoader/src/main/java/com/wangwenjun/concurrent/classloader/chapter1/ClinitThreadTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classLoader/src/main/java/com/wangwenjun/concurrent/classloader/chapter1/SimpleInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,6 +178,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter1/TryConcurrency.java" />
       </list>
     </option>
   </component>
@@ -125,10 +189,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="161" />
-    <option name="y" value="38" />
-    <option name="width" value="949" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="342" />
+    <option name="y" value="40" />
+    <option name="width" value="1401" />
     <option name="height" value="907" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -137,81 +201,57 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="st" type="b2602c69:ProjectViewProjectNode" />
-              <item name="st" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="st" type="b2602c69:ProjectViewProjectNode" />
-              <item name="st" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
               <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="st" type="b2602c69:ProjectViewProjectNode" />
-              <item name="st" type="462c0819:PsiDirectoryNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="st" type="b2602c69:ProjectViewProjectNode" />
-              <item name="st" type="462c0819:PsiDirectoryNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="st" type="b2602c69:ProjectViewProjectNode" />
-              <item name="st" type="462c0819:PsiDirectoryNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="st" type="b2602c69:ProjectViewProjectNode" />
-              <item name="st" type="462c0819:PsiDirectoryNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="st" type="b2602c69:ProjectViewProjectNode" />
-              <item name="st" type="462c0819:PsiDirectoryNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="st" type="b2602c69:ProjectViewProjectNode" />
-              <item name="st" type="462c0819:PsiDirectoryNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java8/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -248,16 +288,17 @@
       <updated>1559745583963</updated>
       <workItem from="1559745587715" duration="595000" />
       <workItem from="1559831645579" duration="8000" />
+      <workItem from="1560089604848" duration="1032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="603000" />
+    <option name="totallyTimeSpent" value="1635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="161" y="38" width="949" height="907" extended-state="0" />
+    <frame x="342" y="40" width="1401" height="907" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18672666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2580164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -272,7 +313,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32170543" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32170543" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32945737" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -314,18 +355,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter1/SingletonObject1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter2/WaitSet.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter2/WaitSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
@@ -353,12 +383,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/chapter3/VolatileTest.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter3/VolatileTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter1/SingletonObject1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter1/SingletonObject2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/second/chapter1/SingletonObject3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/wangwenjun/concurrent/first/chapter1/TryConcurrency.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
